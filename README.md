@@ -12,5 +12,5 @@ monitoring/
     prometheus.yml
 
 bash
-
-
+git clone https://github.com/GTemir/monitoring-G-P.git
+cd monitoring-G-P
